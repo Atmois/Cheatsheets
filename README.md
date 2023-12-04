@@ -24,3 +24,5 @@ Each language is spilt into 2 MD files, one for basic parts that are important f
 - [Cater](https://github.com/SuperCater)
   - JS
   - TS
+
+## Other resources that were helpful
