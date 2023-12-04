@@ -25,4 +25,6 @@ Each language is spilt into 2 MD files, one for basic parts that are important f
   - JS
   - TS
 
-## Other resources that were helpful
+### All Contributors
+
+### Other resources that were helpful
