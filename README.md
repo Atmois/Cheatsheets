@@ -25,7 +25,9 @@ Each language is spilt into 2 MD files, one for basic parts that are important f
   - JS
   - TS
 
-### Other resources that were helpful
+### Other resources that were helpful to the creation/development of this
 
 ### All Contributors
-[![Contributors](https://contributors-img.web.app/image?repo=Atmois/Cheatsheets)](https://github.com/Atmois/Cheatsheets/graphs/contributors)
+<a href="https://github.com/Atmois/Cheatsheets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Atmois/Cheatsheets" />
+</a>
